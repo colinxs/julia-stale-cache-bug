@@ -1,0 +1,2 @@
+greet() = println("Hello!")
+
